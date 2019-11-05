@@ -1,8 +1,8 @@
-name: Hexo deployer # Actions 名字
+name: Hexo deployer  # Actions 名字
 
 on: # 触发条件
   schedule:
-  - cron: "15 19 * * 1-5"
+  - cron: "18 19 * * 1-5"
 
 jobs:
   build: # job id
