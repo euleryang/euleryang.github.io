@@ -10,13 +10,13 @@ categories:
 > GitHub 操作可让您灵活地构建自动化的软件部署生命周期工作流程。您可以编写个别任务、调用的操作，以及结合它们创建自定义工作流程。 工作流程是您可以在仓库中创建的自定义自动化流程，用于在 GitHub 上构建、测试、封装、发行或部署任何代码项目。
 
 
-# 新建 Actions
+### 新建 Actions
 
-##### ++Secret++
+#### Secret
 在 GitHub 设置生成一个 Token，需要有仓库的读写权限。打开项目设置，增加 Secrets GH_TOKEN 保存刚刚生成的 Token。Actions 默认有个 secret GITHUB_TOKEN，试了下不成功。
 
 
-##### ++Workflow++
+#### Workflow
 新建 Workflow 文件必须在 .github/workflows 目录中，采用 YAML 语法，名字随意，我命名为 deploy.yml。
 
 ```yaml
