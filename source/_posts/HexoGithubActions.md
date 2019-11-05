@@ -52,11 +52,11 @@ jobs:
 
       - name: Deploy
         env:
-        GH_REF: github.com/Honye/Honye.github.io.git
+        GH_REF: github.com/euleryang/euleryang.github.io.git
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config --global user.name "Honye"
-          git config --global user.email "hongye.jun@qq.com"
+          git config --global user.name "euleryang"
+          git config --global user.email "huan_yang2006@163.com"
           git clone https://${GH_REF} .deploy_git
           cd .deploy_git
           git checkout master
