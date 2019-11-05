@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: '一个专注技术的组织'
-description: '涉猎的主要编程语言为 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等。'
-keywords: 'Python, Rust, C++, Go, 爬虫, 深度学习, 服务研发, 对象存储'
+title: Sam
+subtitle: '一个爱上写作的人'
+description: '规划未来的写作方向：管理流程、技术工具、亲子教育、写作随感。'
+keywords: '写作, 亲子, 流程, 管理, Python, Java, C#, Go, AI'
 author: Sam Yang
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://euleryang.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
