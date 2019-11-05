@@ -52,8 +52,8 @@ jobs:
 
       - name: Deploy
         env:
-        GH_REF: github.com/euleryang/euleryang.github.io.git
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_REF: github.com/euleryang/euleryang.github.io.git
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "euleryang"
           git config --global user.email "huan_yang2006@163.com"
