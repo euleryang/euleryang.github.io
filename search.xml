@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2019/11/06/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>java集锦(一)</title>
+    <url>/2019/11/05/awesome-java-01/</url>
+    <content><![CDATA[<blockquote>
+<p>全站awesome <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener">https://github.com/sindresorhus/awesome</a><br>全站trending <a href="https://github.com/trending" target="_blank" rel="noopener">https://github.com/trending</a></p>
+</blockquote>
+<h5 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h5><ul>
+<li><p><a href="https://github.com/doocs/advanced-java" target="_blank" rel="noopener">advanced-java</a>： Java工程师进阶知识扫盲，适合系统学习。  </p>
+</li>
+<li><p><a href="https://github.com/lenve/vhr" target="_blank" rel="noopener">vhr</a>：一个前后端分离的人力资源管理系统，采用SpringBoot+Vue开发。这个项目的权限管理模块已经开发完成，其他模块还在开发当中。可以管理角色和资源的关系，管理用户和角色的关系。  </p>
+</li>
+<li><p><a href="https://github.com/dianping/cat" target="_blank" rel="noopener">cat</a>：作为服务端项目基础组件，cat提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。</p>
+</li>
+<li><p><a href="https://github.com/zhangdaiscott/jeecg-boot" target="_blank" rel="noopener">jeecg-boot</a>：一款基于代码生成器的JAVA快速开发平台！全新架构前后端分离：SpringBoot 2.x，Ant Design&amp;Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发的福音！！</p>
+</li>
+<li><p><a href="https://github.com/kdn251/interviews" target="_blank" rel="noopener">interviews</a>：软件工程技术面试个人指南。可以这里找到针对很多面试问题的视频解决方案以及详细说明。</p>
+</li>
+<li><p><a href="https://github.com/alibaba/p3c" target="_blank" rel="noopener">p3c</a>：是阿里巴巴p3c项目组进行研发。根据《阿里巴巴Java开发规范》转化而成的自动化插件，并且实现了部分自动编程。</p>
+</li>
+<li><p><a href="https://github.com/wuyouzhuguli/SpringAll" target="_blank" rel="noopener">SpringAll</a>：包括了Spring Boot，Spring Boot＆Shiro，Spring Cloud，Spring Boot＆Spring Security＆Spring Security OAuth2等系列教程。</p>
+</li>
+<li><p><a href="https://github.com/hollischuang/toBeTopJavaer" target="_blank" rel="noopener">toBeTopJavaer</a>：Java工程师成神之路。总结的很好，直接理解学习就完了。</p>
+</li>
+</ul>
+<h5 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h5><p><a href="https://www.zhihu.com/question/22744854/answer/763206431" target="_blank" rel="noopener">https://www.zhihu.com/question/22744854/answer/763206431</a></p>
 ]]></content>
+      <categories>
+        <category>技术工具</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>awesome</tag>
+        <tag>trending</tag>
+      </tags>
   </entry>
   <entry>
     <title>外地人在上海：2019年新生儿办理新生儿办理 出生证、新生儿积分信息、户口、医保、生育保险流程</title>
