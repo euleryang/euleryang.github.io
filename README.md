@@ -1,3 +1,3 @@
 # euleryang.github.io
 Blog badge
-https://github.com/euleryang/euleryang.github.io/workflows/Hexo deployer push/badge.svg
+https://github.com/euleryang/euleryang.github.io/workflows/Hexo%20deployer%20push/badge.svg
