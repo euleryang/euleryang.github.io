@@ -1,12 +1,13 @@
 [![Build status](https://github.com/euleryang/euleryang.github.io/workflows/Hexo%20deployer%20push/badge.svg)]()
 
-# euleryang.github.io
-#### 一、Hexo搭建部署教程：摘要
+# [euleryang.github.io](https://euleryang.github.io/)
+#### 一、Hexo搭建部署教程
 主题、样式、Favicon、Avatar、rss、code、bookmark、github_banner、gitalk、pangu、math、pjax、标签页、分类页、搜索页、404页面、自定义域名
 
->hexo clean
->hexo generate
->hexo deploy
+* hexo指令  
+>hexo clean  
+>hexo generate  
+>hexo deploy  
 
 ###### refrece
 1. [【壹个小技巧】一看就会的CI/CD ：Github Actions](https://mp.weixin.qq.com/s/naj_SAaoaVESlxYSn4sv7w)  
